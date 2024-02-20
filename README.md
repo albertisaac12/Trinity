@@ -1,4 +1,4 @@
-# Tweet Records Smart Contract
+# Records Smart Contract
 
 ## Overview
 The Tweet Records Smart Contract is a decentralized application (DApp) deployed on the Ethereum blockchain. It allows users to post, edit, report, verify, and flag tweets, which are stored as files on the blockchain. Verifiers play a crucial role in verifying the authenticity of tweets, while users can interact with the contract to manage their tweets.
